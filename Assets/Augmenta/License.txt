@@ -1,0 +1,7 @@
+============================================================
+Augmenta is a helper framework for Unity, providing useful tools for game building within the Unity3D engine.
+AUTHOR:				Alex Short
+============================================================
+
+LICENSE:
+============================================================
